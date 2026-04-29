@@ -8,7 +8,7 @@ Implemented ADC in polling mode to read analog sensor data using STM32 microcont
 
 ## Peripherals Used
 - ADC
-- GPIO (if used)
+- GPIO
 
 ## Working
 The ADC continuously reads analog input and processes the data in polling mode.
